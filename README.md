@@ -51,6 +51,7 @@
 - [ ] Пользователь получает уведомление об успешном добавлении адреса
 
 ## BPMN
+![TOBE](https://raw.githubusercontent.com/moelisaveta/User-address-management-service/a7066a82692eb004311de1343cf26e8ab792013a/bpmn_1.png)
 
 ### Frontend
   - Добавить в приложение новую вкладку с разделом "Адреса" согласно текущему дизайну приложения.
